@@ -1,4 +1,4 @@
-package org.example;
+package org.example.integers;
 
 public class RichestCustomerWealth1672 {
         public static int maximumWealth(int[][] accounts) {

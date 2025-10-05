@@ -1,4 +1,4 @@
-package org.example;
+package org.example.integers;
 
 public class NumberOfSteps1342 {
     public static int numberOfSteps(int num) {
